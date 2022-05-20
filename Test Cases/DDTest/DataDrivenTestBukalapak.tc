@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTestBukalapak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>194476fd-66c2-46d6-895e-8f372c75350e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a12e316-debd-452a-bfe2-e58ed6bd48be</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a12e316-debd-452a-bfe2-e58ed6bd48be</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

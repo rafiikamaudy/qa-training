@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Script mode web katalon cura</description>
+   <name>ScriptModeCura</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97fb1e1c-9fbd-413c-b9e8-693d9a8471b5</testCaseGuid>
+</TestCaseEntity>

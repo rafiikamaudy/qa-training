@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Record web github</description>
+   <name>RecordDemoGithub</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>289806af-ba68-4e1c-88a9-2009fec494ad</testCaseGuid>
+</TestCaseEntity>

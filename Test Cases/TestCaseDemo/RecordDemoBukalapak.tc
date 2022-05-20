@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RecordDemoBukalapak</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d9a1ba0-9a7d-44eb-885b-508398be51b2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa7b13c8-cc85-4212-b675-6ec6b026010e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa7b13c8-cc85-4212-b675-6ec6b026010e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Manual demo cura</description>
+   <name>ManualDemoCura</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86a72242-fe65-4bad-a625-acb60f07bc86</testCaseGuid>
+</TestCaseEntity>
